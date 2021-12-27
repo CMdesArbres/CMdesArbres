@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CMdesArbres
+- 👋 Hi, I’m @CMdesArbres Full name: Christophe de la Musique des Arbres - yes, a long name I chose for myself as a musician.
 - 👀 I’m interested in just getting set up right now with a view to amending this later when appropriate.
 - 🌱 I’m currently learning ... HTML, CSS, JS, and some C++
 <!---
